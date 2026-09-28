@@ -406,18 +406,17 @@ To reproduce a comparison, run `python run_pipeline.py B` and read the printed m
 
 ## 8. Screenshots
 
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/463a3799-86e5-449a-a803-bfc5e4ebfdd7" />
+
+<img width="1920" height="1035" alt="Screenshot 2026-09-29 010233" src="https://github.com/user-attachments/assets/6f0e5d81-fe30-4682-8297-321de345a007" />
+
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/9f06160a-1e6b-4817-b423-55b51ea6e23a" />
+
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/4a353f66-c646-40b0-ab4f-42e1c8cf4e2d" />
 
 
-### Dashboard overview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56f55302-1fd0-4450-9f4c-aeedf2201e23" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0195261-3d60-4c2c-a8d4-13a6de210ee9" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d16cc458-6696-4011-94f1-7bc3278fc332" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67dc710a-5831-4d7b-a443-655c56f26d35" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4dfedcd-0e9a-4811-9fab-c22d2f0a4bf5" />
 
 
 
